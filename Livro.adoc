@@ -1,4 +1,8 @@
 = Python Fluente, Segunda Edição (2023)
+:doctitle: Python Fluente, Segunda Edição (2023)
+:keywords: Python, linguagens de programação, algoritmos, ciência da computação
+:front-cover-image: cover/cover.jpg
+:copyright: Luciano Ramalho CC BY-NC-ND 4.0 Deed
 :doctype: book
 :author: Luciano Ramalho
 :lang: pt_BR
@@ -10,6 +14,7 @@ include::atributos-pt_BR.adoc[]
 :data-uri:
 :toc: left
 :toclevels: 2
+:source-highlighter: rouge
 :!chapter-signifier:
 
 include::Prefacio.adoc[]
